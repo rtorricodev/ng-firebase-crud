@@ -1,3 +1,9 @@
+
+you need:
+- node
+- angular cli
+
+
 1. Git clone
 2. npm install
 3. copy the folder component to your own project
