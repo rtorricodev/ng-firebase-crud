@@ -1,4 +1,4 @@
-![alt text}(https://lh4.googleusercontent.com/4dd_9gBY7YwyQt6XO3BCtBBmt1E19wfjnfxV6Ztji3LRrKOICToO94uTKzSQsdarzhJhVjj8BWuZHwbNiPP8=w1125-h790-rw)
+![alt text](https://lh4.googleusercontent.com/4dd_9gBY7YwyQt6XO3BCtBBmt1E19wfjnfxV6Ztji3LRrKOICToO94uTKzSQsdarzhJhVjj8BWuZHwbNiPP8=w1125-h790-rw)
 
 # before start install: 
   
