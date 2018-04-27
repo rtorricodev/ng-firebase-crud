@@ -1,9 +1,9 @@
-#Dependencies: 
+# Dependencies: 
   
 - node
 - angular cli
 
-#Steps:
+# Steps:
 
 1. Git clone
 2. npm install
